@@ -1,0 +1,400 @@
+Uri: https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;600;700;800;900&display=swap
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600;700&display=swap
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/frankruhllibre/v21/j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw4bZlqQ.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\frankruhllibre\v21\j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw4bZlqQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/frankruhllibre/v21/j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw4iZlqQ.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\frankruhllibre\v21\j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw4iZlqQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/frankruhllibre/v21/j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw5FZlqQ.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\frankruhllibre\v21\j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw5FZlqQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/frankruhllibre/v21/j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw5sZlqQ.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\frankruhllibre\v21\j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw5sZlqQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/frankruhllibre/v21/j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw6bYVqQ.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\frankruhllibre\v21\j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw6bYVqQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/frankruhllibre/v21/j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw73YVqQ.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\frankruhllibre\v21\j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw73YVqQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/frankruhllibre/v21/j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw7FYVqQ.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\frankruhllibre\v21\j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw7FYVqQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqqFA.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqqFA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52qFA.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDH52qFA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2qFA.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2qFA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqqFA.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDppqqFA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqqFA.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDypqqFA.ttf
+Content Type: font/ttf
+
+Uri: https://mutationmedia.net/apple-touch-icon.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://mutationmedia.net/BENE/
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\index.htm
+Content Type: text/html
+
+Uri: https://mutationmedia.net/BENE/about.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\about.html.htm
+Content Type: text/html
+
+Uri: https://mutationmedia.net/BENE/article.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\article.html.htm
+Content Type: text/html
+
+Uri: https://mutationmedia.net/BENE/assets/img/1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\1.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/10.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\10.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/11.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\11.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/12.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\12.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/13.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\13.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/14.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\14.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/15.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\15.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/17.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\17.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/18.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\18.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/19.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\19.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\2.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/20.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\20.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/21.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\21.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/22.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\22.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/23.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\23.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\3.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\4.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\5.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\6.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/7.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\7.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/8.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\8.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/9.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\9.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/avatar/1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\avatar\1.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/avatar/2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\avatar\2.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/avatar/3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\avatar\3.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/avatar/4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\avatar\4.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/gallery/1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/gallery/2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/gallery/3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/gallery/4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/gallery/5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/gallery/6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/grid/1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\grid\1.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/grid/2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\grid\2.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/grid/3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\grid\3.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/grid/4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\grid\4.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/logo-stamp.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\logo-stamp.png
+Content Type: image/png
+
+Uri: https://mutationmedia.net/BENE/assets/img/post/4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\post\4.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/post/5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\post\5.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/post/6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\post\6.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/post/7.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\post\7.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/post/8.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\post\8.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/post/9.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\post\9.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/special/1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\special\1.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/special/2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\special\2.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/special/3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\special\3.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/special/4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\special\4.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/team/1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\team\1.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/team/2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\team\2.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/img/team/3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\img\team\3.jpg
+Content Type: image/jpeg
+
+Uri: https://mutationmedia.net/BENE/assets/svg/logo-dark.svg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\svg\logo-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://mutationmedia.net/BENE/assets/svg/logo-light.svg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\svg\logo-light.svg
+Content Type: image/svg+xml
+
+Uri: https://mutationmedia.net/BENE/assets/svg/spinner.svg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\assets\svg\spinner.svg
+Content Type: image/svg+xml
+
+Uri: https://mutationmedia.net/BENE/contact.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\contact.html.htm
+Content Type: text/html
+
+Uri: https://mutationmedia.net/BENE/css/bootstrap.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://mutationmedia.net/BENE/css/flexslider.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\css\flexslider.css
+Content Type: text/css
+
+Uri: https://mutationmedia.net/BENE/css/flickity.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\css\flickity.css
+Content Type: text/css
+
+Uri: https://mutationmedia.net/BENE/css/fonts.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\css\fonts.css
+Content Type: text/css
+
+Uri: https://mutationmedia.net/BENE/css/magnific-popup.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://mutationmedia.net/BENE/css/main.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\css\main.css
+Content Type: text/css
+
+Uri: https://mutationmedia.net/BENE/events.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\events.html.htm
+Content Type: text/html
+
+Uri: https://mutationmedia.net/BENE/font/fontello.eot?46579446
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mutationmedia.net/BENE/font/fontello.svg?46579446
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://mutationmedia.net/BENE/font/fontello.ttf?46579446
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\font\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://mutationmedia.net/BENE/font/fontello.woff2?46579446
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\font\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://mutationmedia.net/BENE/font/fontello.woff?46579446
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\font\fontello.woff
+Content Type: font/woff
+
+Uri: https://mutationmedia.net/BENE/gallery.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\gallery.html.htm
+Content Type: text/html
+
+Uri: https://mutationmedia.net/BENE/index.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\index.html.htm
+Content Type: text/html
+
+Uri: https://mutationmedia.net/BENE/js/bootstrap.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://mutationmedia.net/BENE/js/flickity.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\js\flickity.min.js
+Content Type: text/javascript
+
+Uri: https://mutationmedia.net/BENE/js/jquery-1.12.4.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\js\jquery-1.12.4.min.js
+Content Type: text/javascript
+
+Uri: https://mutationmedia.net/BENE/js/jquery.flexslider-min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\js\jquery.flexslider-min.js
+Content Type: text/javascript
+
+Uri: https://mutationmedia.net/BENE/js/jquery.magnific-popup.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://mutationmedia.net/BENE/js/placeholders.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\js\placeholders.min.js
+Content Type: text/javascript
+
+Uri: https://mutationmedia.net/BENE/js/script.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\js\script.js
+Content Type: text/javascript
+
+Uri: https://mutationmedia.net/BENE/js/smooth-scroll.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\js\smooth-scroll.js
+Content Type: text/javascript
+
+Uri: https://mutationmedia.net/BENE/menu.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\menu.html.htm
+Content Type: text/html
+
+Uri: https://mutationmedia.net/BENE/news.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\news.html.htm
+Content Type: text/html
+
+Uri: https://mutationmedia.net/BENE/reservation.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\BENE\reservation.html.htm
+Content Type: text/html
+
+Uri: https://mutationmedia.net/favicon-16x16.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://mutationmedia.net/favicon-32x32.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://mutationmedia.net/site.webmanifest
+File Name: S:\repositories\clients\output\nomada.sg\nomada\bene\mutationmedia.net\site.webmanifest
+Content Type: 
+

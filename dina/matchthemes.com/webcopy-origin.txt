@@ -1,0 +1,720 @@
+Uri: https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:wght@300;400;500;600;700&display=swap
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787weuyJG.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787weuyJG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJG.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787z5vCJG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Ckqg.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Ckqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFkqg.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\s\poppins\v22\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\s\poppins\v22\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\s\poppins\v22\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\s\poppins\v22\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\s\poppins\v22\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://matchthemes.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\index.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/404-error.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\404-error.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/about-me.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\about-me.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/about-us.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\about-us.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/blog-classic.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\blog-classic.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/blog-fullwidth.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\blog-fullwidth.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/blog-grid-3-cols.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\blog-grid-3-cols.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/blog-grid.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\blog-grid.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/blog-left-sidebar.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\blog-left-sidebar.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/blog-single-post.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\blog-single-post.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/blog.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\blog.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/contact-2.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\contact-2.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/contact-3.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\contact-3.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/contact.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\contact.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/css/bootstrap/css/bootstrap.min.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://matchthemes.com/demohtml/dina/css/bootstrap/js/bootstrap.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\bootstrap\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/css/bootstrap/js/popper.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\bootstrap\js\popper.min.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/css/font-awesome.min.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-brands-400.eot
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-brands-400.eot?
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-brands-400.svg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-brands-400.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-brands-400.woff
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-brands-400.woff2
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-regular-400.eot
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-regular-400.eot?
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-regular-400.svg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-regular-400.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-regular-400.woff
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-regular-400.woff2
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-solid-900.eot
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-solid-900.eot?
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-solid-900.svg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-solid-900.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-solid-900.woff
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://matchthemes.com/demohtml/dina/css/fontawesome/webfonts/fa-solid-900.woff2
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\css\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://matchthemes.com/demohtml/dina/faq.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\faq.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/gallery-3-cols.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\gallery-3-cols.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/gallery-4-cols.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\gallery-4-cols.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/gallery-full-screen-3-cols.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\gallery-full-screen-3-cols.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/gallery-full-screen-4-cols.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\gallery-full-screen-4-cols.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/header-2.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\header-2.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/header-3.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\header-3.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/header-4.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\header-4.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/header-5.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\header-5.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/header-6.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\header-6.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/homepage-10.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\homepage-10.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/homepage-2.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\homepage-2.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/homepage-3.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\homepage-3.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/homepage-4.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\homepage-4.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/homepage-5.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\homepage-5.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/homepage-6.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\homepage-6.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/homepage-7.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\homepage-7.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/homepage-8.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\homepage-8.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/homepage-9.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\homepage-9.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/homepage-video.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\homepage-video.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/images/blog/blog-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\blog\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/blog/blog-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\blog\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/blog/blog-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\blog\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/blog/blog-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\blog\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/blog/blog-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\blog\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/blog/blog-6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\blog\blog-6.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/blog/blog-7.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\blog\blog-7.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-10.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-10.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-11.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-11.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-12.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-12.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-7.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-7.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-8.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-8.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gallery/gallery-9.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gallery\gallery-9.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/gravatar.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\gravatar.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-10.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-10.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-3.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-4.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-5.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-6.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-7.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-7.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-8.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-8.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-81.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-81.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-82.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-82.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-83.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-83.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-84.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-84.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/about-9.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\about-9.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/featured-img-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\featured-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/featured-img-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\featured-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/featured-img-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\featured-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/home-9-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\home-9-2.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/home-9-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\home-9-3.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/icon-91.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\icon-91.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/icon-92.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\icon-92.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/icon-93.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\icon-93.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/icon-94.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\icon-94.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/home/taste-food.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\home\taste-food.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/icons/favicon-180x180.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\icons\favicon-180x180.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/icons/favicon-192x192.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\icons\favicon-192x192.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/icons/favicon-32x32.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/icons/food.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\icons\food.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/icons/glass.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\icons\glass.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/icons/groceries.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\icons\groceries.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/logo-dina-white.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\logo-dina-white.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/logo-dina.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\logo-dina.png
+Content Type: image/png
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/avocado-tomato.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\avocado-tomato.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/baked-potato-skins.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\baked-potato-skins.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/chocolate-cupcakes.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\chocolate-cupcakes.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/coconut-curry-fried-chicken.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\coconut-curry-fried-chicken.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/cream-asparagus-soup.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\cream-asparagus-soup.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/creamy-chicken-wild-rice-soup.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\creamy-chicken-wild-rice-soup.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/delicious-ham-potato-soup.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\delicious-ham-potato-soup.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/double-tomato-bruschetta.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\double-tomato-bruschetta.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/italian-sausage-soup.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\italian-sausage-soup.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/italian-sausage-tortellini-soup.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\italian-sausage-tortellini-soup.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/marinated-grilled-shrimp.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\marinated-grilled-shrimp.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/pork-chops.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\pork-chops.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/prime-rib-primer.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\prime-rib-primer.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/pumpkin-cookies.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\pumpkin-cookies.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/roast-chicken.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\roast-chicken.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/sriracha-beef-skewers.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\sriracha-beef-skewers.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/summer-berry.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\summer-berry.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/menu/terrific-turkey-chili.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\menu\terrific-turkey-chili.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/slider/slider-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\slider\slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/slider/slider-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\slider\slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/slider/slider-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\slider\slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/team/team-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\team\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/team/team-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\team\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/team/team-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\team\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/team/team-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\team\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/top-headers/home-9-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\top-headers\home-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/top-headers/menu-1col-image.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\top-headers\menu-1col-image.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/top-headers/menu-2col-image.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\top-headers\menu-2col-image.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/top-headers/menu-3col-image.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\top-headers\menu-3col-image.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/top-headers/reservation-image.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\top-headers\reservation-image.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/top-headers/top-img-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\top-headers\top-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/images/top-headers/top-img-6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\images\top-headers\top-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demohtml/dina/index.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\index.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/js/contactform.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\js\contactform.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/js/init.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\js\init.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/js/jquery-migrate.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\js\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/js/jquery.easing.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\js\jquery.easing.min.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/js/jquery.fitvids.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\js\jquery.fitvids.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/js/jquery.form.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\js\jquery.form.min.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/js/jquery.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\js\jquery.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/js/jquery.magnific-popup.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/js/owl-carousel/owl.carousel.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\js\owl-carousel\owl.carousel.min.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/js/reservation-form.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\js\reservation-form.js
+Content Type: text/javascript
+
+Uri: https://matchthemes.com/demohtml/dina/menu-1-col.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\menu-1-col.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/menu-2-col.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\menu-2-col.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/menu-3-col.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\menu-3-col.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/menu-accordion.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\menu-accordion.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/menu-grid-image.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\menu-grid-image.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/menu-grid-v2.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\menu-grid-v2.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/menu-grid-v3-2cols.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\menu-grid-v3-2cols.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/menu-grid-v3-4cols.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\menu-grid-v3-4cols.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/menu-grid-v3-5cols.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\menu-grid-v3-5cols.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/menu-grid-v3.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\menu-grid-v3.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/reservation.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\reservation.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/services.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\services.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/style.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\style.css
+Content Type: text/css
+
+Uri: https://matchthemes.com/demohtml/dina/team-2-cols.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\team-2-cols.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/team-3-cols.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\team-3-cols.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demohtml/dina/team.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demohtml\dina\team.html.htm
+Content Type: text/html
+
+Uri: https://matchthemes.com/demowp/dina/wp-content/uploads/2019/07/video-dina-img.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demowp\dina\wp-content\uploads\2019\07\video-dina-img.jpg
+Content Type: image/jpeg
+
+Uri: https://matchthemes.com/demowp/dina/wp-content/uploads/2019/07/video-dina.mp4
+File Name: S:\repositories\clients\output\nomada.sg\nomada\dina\matchthemes.com\demowp\dina\wp-content\uploads\2019\07\video-dina.mp4
+Content Type: video/mp4
+

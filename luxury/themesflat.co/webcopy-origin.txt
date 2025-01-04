@@ -1,0 +1,944 @@
+Uri: https://themesflat.co/html/restaurant/luxury/
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\index.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/404.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\404.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/about.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\about.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/css/animate.min.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/css/animation.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\css\animation.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/css/bootstrap.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/css/magnific-popup.min.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/css/map.min.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\css\map.min.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/css/nouislider.min.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\css\nouislider.min.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/css/responsive.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/css/shortcodes.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\css\shortcodes.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/css/style.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\css\style.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/css/swiper-bundle.min.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-Bold.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-BoldItalic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-BoldItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-Book.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-Book.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-BookItalic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-BookItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-ExtraBoldItalic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-ExtraBoldItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-Heavy.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-Heavy.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-HeavyItalic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-HeavyItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-Italic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-Light.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-Light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-LightItalic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-LightItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-Medium.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CerebriSans-MediumItalic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CerebriSans-MediumItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/Cirka-Variable.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\Cirka-Variable.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CormorantInfant-Bold.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CormorantInfant-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CormorantInfant-BoldItalic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CormorantInfant-BoldItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CormorantInfant-Italic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CormorantInfant-Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CormorantInfant-Light.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CormorantInfant-Light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CormorantInfant-LightItalic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CormorantInfant-LightItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CormorantInfant-Medium.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CormorantInfant-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CormorantInfant-MediumItalic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CormorantInfant-MediumItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CormorantInfant-Regular.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CormorantInfant-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CormorantInfant-SemiBold.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CormorantInfant-SemiBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/CormorantInfant-SemiBoldItalic.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\CormorantInfant-SemiBoldItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/DancingScript-Bold.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\DancingScript-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/font.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\font.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/Oswald-Regular.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\Oswald-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/font/PSDemo.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\font\PSDemo.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/icon/fonts/icomoon.eot?bndenm
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\icon\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/icon/fonts/icomoon.svg?bndenm
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\icon\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/icon/fonts/icomoon.ttf?bndenm
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\icon\fonts\icomoon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/icon/fonts/icomoon.woff?bndenm
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\icon\fonts\icomoon.woff
+Content Type: application/x-font-woff
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/icon/style.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\icon\style.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/avatar/avt-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\avatar\avt-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-about-us.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-about-us.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-blog.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-book-a-table.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-book-a-table.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-box_icon.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-box_icon.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-chef.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-chef.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-coming-soon.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-coming-soon.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-contact.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-contact.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-faq.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-faq.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-gallery.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-gallery.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-home-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-home-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-home-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-home-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-home-right.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-home-right.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-menu.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-menu.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-portfolio.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-portfolio.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-service-detail.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-service-detail.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-service.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-service.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg-shop.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg-shop.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg_our_menu.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg_our_menu.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg_question.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg_question.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/bg-section/bg_testimonials.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\bg-section\bg_testimonials.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/blog-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/blog-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/blog-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/blog-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/blog-full-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\blog-full-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/blog-full-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\blog-full-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/blog-full-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\blog-full-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/blog-single-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\blog-single-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/blog-single-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\blog-single-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/sidebar-avt.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\sidebar-avt.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/sidebar-recent-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\sidebar-recent-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/sidebar-recent-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\sidebar-recent-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/blog/sidebar-recent-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\blog\sidebar-recent-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/404.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\404.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/about-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/about-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/about-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\about-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/about-hour.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\about-hour.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/about-slider-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\about-slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/about-slider-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\about-slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/about-slider-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\about-slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/all-chefs.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\all-chefs.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/cart-item-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\cart-item-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/cart-item-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\cart-item-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/cart-item-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\cart-item-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/cart-item-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\cart-item-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/cart-item-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\cart-item-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/chef-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\chef-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/chef-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\chef-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/chef-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\chef-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/event-item-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\event-item-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/event-item-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\event-item-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/event-item-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\event-item-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/event-item-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\event-item-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/gallery-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/gallery-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/gallery-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/gallery-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/gallery-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/gallery-6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/img-full-parallax-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\img-full-parallax-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/img-full-parallax.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\img-full-parallax.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/location-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\location-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/menu-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\menu-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/menu-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\menu-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/menu-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\menu-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/menu-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\menu-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/open_hours.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\open_hours.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/our-menu-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\our-menu-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/our-menu-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\our-menu-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-3colum-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-3colum-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-3colum-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-3colum-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-3colum-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-3colum-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-3colum-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-3colum-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-3colum-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-3colum-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-3colum-6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-3colum-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-carousel-t1-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-carousel-t1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-carousel-t1-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-carousel-t1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-carousel-t1-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-carousel-t1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-carousel-t2-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-carousel-t2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-carousel-t2-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-carousel-t2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-carousel-t2-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-carousel-t2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-carousel-t3-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-carousel-t3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-carousel-t3-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-carousel-t3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-carousel-t3-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-carousel-t3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-carousel-t4-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-carousel-t4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-detail-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-detail-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-detail-next.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-detail-next.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-detail-pre.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-detail-pre.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-full-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-full-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-full-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-full-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-full-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-full-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-full-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-full-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-full-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-full-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-full-6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-full-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-full-7.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-full-7.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-full-8.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-full-8.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-mansonry-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-mansonry-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-mansonry-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-mansonry-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-mansonry-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-mansonry-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-mansonry-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-mansonry-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-mansonry-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-mansonry-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/portfolio-mansonry-6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\portfolio-mansonry-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/private-event-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\private-event-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/Quality-&-Balance.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\Quality-&-Balance.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/reservation-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\reservation-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/reservation-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\reservation-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/road-map-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\road-map-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/road-map-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\road-map-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/road-map-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\road-map-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/service-detail-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\service-detail-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/service-detail-bot-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\service-detail-bot-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/service-detail-bot-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\service-detail-bot-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/service-slider-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\service-slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/service-slider-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\service-slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/service-slider-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\service-slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/shop-detail.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\shop-detail.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/shop-item-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\shop-item-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/shop-item-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\shop-item-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/shop-item-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\shop-item-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/shop-item-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\shop-item-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/shop-item-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\shop-item-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/shop-item-6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\shop-item-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/box-item/video-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\box-item\video-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/close.svg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\close.svg
+Content Type: image/svg+xml
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/favicon.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/address.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\address.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/call.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\call.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/chef.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\chef.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/food.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\food.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/icon-link.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\icon-link.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/icon-quote.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\icon-quote.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/item-1.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\item-1.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/menu-1.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\menu-1.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/music.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\music.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/signature.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\signature.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/snare-1.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\snare-1.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/snare.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\snare.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/time.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\time.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/wave.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\wave.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/item-background/wines.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\item-background\wines.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/logo/logo-1.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\logo\logo-1.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/logo/logo-ft-1.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\logo\logo-ft-1.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/logo/logo-ft.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\logo\logo-ft.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/logo/logo.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\logo\logo.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/map-icon.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\map-icon.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/images/preload.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\images\preload.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/bootstrap.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/circletype.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\circletype.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/count-down.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\count-down.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/countto.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\countto.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/jquery.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/magnific-popup.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/main.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/map.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\map.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/map.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\map.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/nouislider.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\nouislider.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/rAF.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\rAF.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/ResizeSensor.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\ResizeSensor.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/sticky-sidebar.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\sticky-sidebar.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/swiper-bundle.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/swiper.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\swiper.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/assets/js/wow.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/luxury/blog-full-width.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\blog-full-width.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/blog-single.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\blog-single.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/blog.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\blog.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/book-a-table.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\book-a-table.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/chef.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\chef.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/coming-soon.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\coming-soon.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/contact.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\contact.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/faq.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\faq.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/gallery.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\gallery.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/home-2.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\home-2.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/index.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\index.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/menu-1.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\menu-1.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/menu-2.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\menu-2.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/menu-3.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\menu-3.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/portfolio-carousel.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\portfolio-carousel.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/portfolio-detail.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\portfolio-detail.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/portfolio-full-width.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\portfolio-full-width.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/portfolio-mansonry.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\portfolio-mansonry.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/portfolio-three-colum.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\portfolio-three-colum.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/services-detail.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\services-detail.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/services.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\services.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/shop-detail.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\shop-detail.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/luxury/shop.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\luxury\themesflat.co\html\restaurant\luxury\shop.html.htm
+Content Type: text/html
+

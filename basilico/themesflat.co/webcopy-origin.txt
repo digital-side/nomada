@@ -1,0 +1,860 @@
+Uri: https://code.highcharts.com/highcharts.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\highcharts.js
+Content Type: text/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\index.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/404.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\404.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/about.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\about.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/bootstrap/css/bootstrap.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\bootstrap\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/dist/app.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\dist\app.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/app.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\app.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/bootstrap.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/count-down.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\count-down.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/countto.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\countto.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/jquery-validate.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\jquery-validate.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/jquery.easing.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\jquery.easing.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/jquery.magnific-popup.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/jquery.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/parallax.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\parallax.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/rAF.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\rAF.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/ResizeSensor.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\ResizeSensor.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/sticky-sidebar.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\sticky-sidebar.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/swiper-bundle.min.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/js/swiper.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\js\swiper.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/app/swiper/swiper-bundle.min.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\app\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/font/Audrey-Medium.otf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\font\Audrey-Medium.otf
+Content Type: application/x-font-otf
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/font/Audrey-Normal.otf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\font\Audrey-Normal.otf
+Content Type: application/x-font-otf
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/font/CerebriSans-Book.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\font\CerebriSans-Book.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/font/CerebriSans-Medium.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\font\CerebriSans-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/css/all.min.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\fontawesome-free-6.4.2-web\css\all.min.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-brands-400.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\fontawesome-free-6.4.2-web\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-brands-400.woff2
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\fontawesome-free-6.4.2-web\webfonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-regular-400.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\fontawesome-free-6.4.2-web\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-regular-400.woff2
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\fontawesome-free-6.4.2-web\webfonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-solid-900.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\fontawesome-free-6.4.2-web\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-solid-900.woff2
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\fontawesome-free-6.4.2-web\webfonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-v4compatibility.ttf
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\fontawesome-free-6.4.2-web\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/fontawesome-free-6.4.2-web/webfonts/fa-v4compatibility.woff2
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\fontawesome-free-6.4.2-web\webfonts\fa-v4compatibility.woff2
+Content Type: 
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/favicon.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/icon/chef-hat.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\icon\chef-hat.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/icon/chef.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\icon\chef.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/icon/eating.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\icon\eating.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/icon/gift-card.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\icon\gift-card.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/icon/noun_link.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\icon\noun_link.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/icon/quote.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\icon\quote.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/icon/services-01.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\icon\services-01.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/icon/services-02.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\icon\services-02.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/icon/services-03.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\icon\services-03.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/icon/shopping-bag.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\icon\shopping-bag.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/icon/x.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\icon\x.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/logo/logo-02.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\logo\logo-02.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/logo/logo-03.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\logo\logo-03.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/logo/logo-04.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\logo\logo-04.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/logo/logo-sidebar.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\logo\logo-sidebar.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/logo/logo.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\logo\logo.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/logo/logofooter.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\logo\logofooter.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/partner/partner-01.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\partner\partner-01.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/partner/partner-02.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\partner\partner-02.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/partner/partner-03.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\partner\partner-03.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/partner/partner-04.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\partner\partner-04.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/partner/partner-05.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\partner\partner-05.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/partner/partner-06.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\partner\partner-06.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/11111s1d2d.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\11111s1d2d.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/404.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\404.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/about.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\about.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/about1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\about1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/about2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\about2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/aboutbg.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\aboutbg.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/avt-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\avt-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/avt.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\avt.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/banner.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\banner.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-404.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-404.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-blog-full.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-blog-full.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-careers.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-careers.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-contact.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-contact.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-faq.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-faq.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-gallery.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-gallery.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-gift.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-gift.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-gift.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-gift.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-history.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-history.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-location.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-location.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-menu.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-menu.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-pagetitle.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-pagetitle.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/bg-portfolio.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\bg-portfolio.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/blog-01.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\blog-01.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/blog-02.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\blog-02.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/blog-03.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\blog-03.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/blog-04.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\blog-04.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/blog-05.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\blog-05.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/blog-06.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\blog-06.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/blog-single-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\blog-single-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/blog-single-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\blog-single-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/book-01.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\book-01.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/book-02.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\book-02.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/booking.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\booking.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/careers.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\careers.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/chef1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\chef1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/chef2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\chef2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/chef3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\chef3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/chef4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\chef4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/choose-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\choose-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/choose.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\choose.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/comingsoon.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\comingsoon.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/contact-01.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\contact-01.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/contact-02.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\contact-02.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/event.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\event.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/event1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\event1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/event2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\event2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/event3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\event3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/event4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\event4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-10.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-10.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-11.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-11.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-12.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-12.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-13.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-13.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-7.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-7.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-8.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-8.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gallery-9.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gallery-9.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gift-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gift-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gift-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gift-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gift-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gift-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gift-detail.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gift-detail.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/gift.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\gift.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/history-01.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\history-01.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/history-02.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\history-02.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/history-03.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\history-03.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/history-04.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\history-04.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/ig-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\ig-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/ig-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\ig-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/ig-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\ig-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/ig-4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\ig-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/ig-5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\ig-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/img-ellipse1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\img-ellipse1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/img-ellipse2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\img-ellipse2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/location-01.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\location-01.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/location-02.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\location-02.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/location-03.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\location-03.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/map1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\map1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/map2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\map2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu-full-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu-full-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu-full-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu-full-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu-slider-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu-slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu-slider-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu-slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu-slider-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu-slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu-zz-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu-zz-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu-zz-2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu-zz-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu-zz-3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu-zz-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu10.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu10.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu11.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu11.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu4.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu5.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu6.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu6.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu7.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu7.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu8.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu8.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/menu9.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\menu9.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/opening.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\opening.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/opening.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\opening.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/order-01.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\order-01.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/order-02.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\order-02.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/order-03.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\order-03.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/portfolio-01.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\portfolio-01.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/portfolio-02.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\portfolio-02.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/portfolio-03.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\portfolio-03.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/portfolio-04.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\portfolio-04.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/portfolio-05.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\portfolio-05.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/portfolio-06.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\portfolio-06.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/res01.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\res01.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/res02.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\res02.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/res03.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\res03.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/s-form-1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\s-form-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/s-form.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\s-form.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/shape-menu.png
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\shape-menu.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/testimonial.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\testimonial.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/video.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\video.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/video1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\video1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/video3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\video3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/section/voucher.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\section\voucher.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/slider/img_slider_1.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\slider\img_slider_1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/slider/img_slider_12.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\slider\img_slider_12.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/slider/img_slider_2.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\slider\img_slider_2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/slider/img_slider_22.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\slider\img_slider_22.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/assets/images/slider/img_slider_3.jpg
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\assets\images\slider\img_slider_3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/blog_creative.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\blog_creative.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/blog_full_width.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\blog_full_width.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/blog_list.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\blog_list.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/blog_right_sidebar.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\blog_right_sidebar.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/blog_single.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\blog_single.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/careers.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\careers.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/colums_full_width.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\colums_full_width.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/coming_soon.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\coming_soon.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/contact_01.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\contact_01.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/contact_02.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\contact_02.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/faq.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\faq.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/gallery.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\gallery.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/gift_vouchers.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\gift_vouchers.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/gift_vouchers_detail.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\gift_vouchers_detail.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/history.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\history.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/home_02.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\home_02.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/home_03.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\home_03.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/home_04.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\home_04.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/index.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\index.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/location.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\location.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/menu_list.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\menu_list.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/menu_zigzag.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\menu_zigzag.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/portfolio_carousel.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\portfolio_carousel.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/portfolio_detail.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\portfolio_detail.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/portfolio_mansonry.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\portfolio_mansonry.html.htm
+Content Type: text/html
+
+Uri: https://themesflat.co/html/restaurant/basilicohtml/portfolio_three_colum.html
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\html\restaurant\basilicohtml\portfolio_three_colum.html.htm
+Content Type: text/html
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: S:\repositories\clients\output\nomada.sg\nomada\basilico\themesflat.co\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
