@@ -4,18 +4,9 @@
     --main-font-color: #c6ac83;
 }
 
-/*.design1 {*/
-/*    background-color: #eeeee6;*/
-/*    color: #60452a;*/
-/*}*/
-/*.design2 {*/
-/*    background-color: #60452a;*/
-/*    color: #eeeee6;*/
-/*}*/
-
 .site-logo-wrap {
     padding: 10px 30px 20px 30px;
-    border-left: 0px ;
+    border-left: 0px;
     border-right: 0px;
     border-bottom: 0px;
     border-bottom-left-radius: 0px;
@@ -27,65 +18,36 @@
     width: auto;
 }
 
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .swiper-container {
+        /*height: 300px;*/
+    }
+    .site-logo-wrap img {
+        height: 80px;
+        width: auto;
+    }
+}
+
 li.acconcepts > a {
     color: var(--main-font-color);
     font-weight: bold;
 }
 
-.button-default {
-    /*background-color: var(--main-font-color);*/
-    /*color: var(--main-brand-color);*/
+.google-maps {
+    position: relative;
+    padding-bottom: 75%; /* This is the aspect ratio*/
+    height: 0;
+    overflow: hidden;
 }
 
-.header-right {
-    /*padding: 34px 48px 36px 54px;*/
-    /*padding: 0px 0px 0px 0px;*/
-    /*border-left: 1px solid #4e4a3d;*/
-}
-.header-search .show-search {
-    /*width: 100px;*/
-    /*height: 100px;*/
-    /*display: flex;*/
-    /*align-items: center;*/
-    /*justify-content: center;*/
-}
-
-/*.header-search-image {*/
-/*    background-image: url('../../ds/images/nomada-portrait-brown-200x200.png') ;*/
-/*    !*background-color: #cccccc; !* Used if the image is unavailable *!*!*/
-/*    !*height: 500px; !* You must set a specified height *!*!*/
-/*    background-position: center; !* Center the image *!*/
-/*    background-repeat: no-repeat; !* Do not repeat the image *!*/
-/*    background-size: cover; !* Resize the background image to cover the entire container *!*/
-/*}*/
-
- .google-maps {
-     position: relative;
-     padding-bottom: 75%; // This is the aspect ratio
-     height: 0;
-     overflow: hidden;
- }
 .google-maps iframe {
     position: absolute;
     top: 0;
     left: 0;
-    margin-top: 40px;
+    margin-top: 100px;
     width: 100% !important;
-    height: 80% !important;
+    height: 100% !important;
+    overflow: visible !important;
 }
-.mfp-iframe-scaler iframe {
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
 
-
-/*.page-title .content.text-left {*/
-/*    background-image: url(../images/bg-section/bg-home-2.jpg);*/
-/*}*/
-/*.page-title .content.text-center {*/
-/*    background-image: url(../images/bg-section/bg-home-1.jpg);*/
-/*}*/
-/*.page-title .content.text-right {*/
-/*    background-image: url(../images/bg-section/bg-home-right.jpg);*/
-/*}*/

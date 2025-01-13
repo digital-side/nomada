@@ -1,0 +1,1 @@
+COPY /Y index.html ..\templates\index.j2.html 
