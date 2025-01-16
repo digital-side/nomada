@@ -17,6 +17,12 @@
     height: 115px;
     width: auto;
 }
+#site-logo {
+    left: 45%;
+}
+.header-top > .left {
+    gap: 40px;
+}
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
@@ -26,6 +32,9 @@
     .site-logo-wrap img {
         height: 80px;
         width: auto;
+    }
+    #site-logo {
+        left: 0%;
     }
 }
 

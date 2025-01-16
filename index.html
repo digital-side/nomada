@@ -106,7 +106,17 @@
                         <div id="site-logo">
                             <div class="site-logo-wrap">
                                 <a href="index.html" rel="home" class="main-logo">
-                                    <img id="logo_header" alt="" src="ds/images/nomada-portrait-brown-200x200.png">
+                                    <picture>
+                                        <!--
+                                        <source media="(width >= 900px)" srcset="ds/img/home-1-sq.jpg">
+                                        <source media="(width > 600px) and (width < 900px)" srcset="ds/img/home-1-sq.jpg">
+                                        -->
+                                        <source media="(width <= 600px)" srcset="ds/images/nomada-portrait-brown-200x200.png">
+                                        <img id="logo_header" loading="lazy" src="ds/images/nomada-landscape-brown400x177.png">
+                                    </picture>
+                                    <!--
+                                    <img id="logo_header" alt="" src="ds/images/nomada-landscape-brown400x177.png">
+                                    -->
                                 </a>
                             </div>
                         </div><!-- /logo -->
@@ -215,35 +225,43 @@
         <div class="page-title">
             <div class="swiper relative slider-page-title dsSwiper">
                 <div class="swiper-wrapper">
-
                     <div class="swiper-slide">
-                        <div class="content text-center" style="background-image: url(ds/images/bg/bg-road-bw.jpg)">
+                        <div class="content text-center" style="background-image: url(ds/images/bg/bg-beach-mountain.jpg)">
                             <div class="themesflat-container">
                                 <div class="row">
                                     <div class="col-12">
                                         <div class="text">Bringing Class To Cuisine</div>
                                         <div class="heading">Where every flavor tells a story</div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec imperdiet
-                                            eros, vitae suscipit odio. Fusce euismod enim non libero luctus, sed aliquam
-                                            nunc vestibulum. Nullam tincidunt sagittis eros ac placerat. </p>
+                                        <p>Reimagining traditional Spanish cuisine with bold creativity and global influences. </p>
                                         <a class="button-two-line" href="#menuds">DISCOVER MENU</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
+                    <div class="swiper-slide">
+                        <div class="content text-left" style="background-image: url(ds/images/bg/bg-road-bw.jpg)">
+                            <div class="themesflat-container">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="text">A Journey of Life</div>
+                                        <div class="heading">Time to start traveling</div>
+                                        <p>Each plate is an invitation to discover the limitless possibilities of Spanish cuisine, reimagined with a contemporary global flair. </p>
+                                        <a class="button-two-line" href="#menuds">DISCOVER MENU</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="swiper-slide">
                         <div class="content text-right" style="background-image: url(ds/images/bg/bg-desert.jpg)">
                             <div class="themesflat-container">
                                 <div class="row">
                                     <div class="col-12">
-                                        <div class="text">Enriched by experience</div>
+                                        <div class="text">Enriched by Experience</div>
                                         <div class="heading">Cuisine Inspired by the World, guided by Instinct</div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec imperdiet
-                                            eros, vitae suscipit odio. Fusce euismod enim non libero luctus, sed aliquam
-                                            nunc vestibulum. Nullam tincidunt sagittis eros ac placerat. </p>
+                                        <p>The essence of Spanish gastronomy is transformed into a modern, innovative experience. Drawing from the chef extensive career alongside culinary greats. </p>
                                         <a class="button-two-line" href="#menuds">DISCOVER MENU</a>
                                     </div>
                                 </div>
@@ -251,15 +269,15 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="content text-left" style="background-image: url(ds/images/bg/bg-mountain.jpg)">
+                        <div class="content text-center" style="background-image: url(ds/images/bg/bg-mountain.jpg)">
                             <div class="themesflat-container">
                                 <div class="row">
                                     <div class="col-12">
-                                        <div class="text"></div>
-                                        <div class="heading">Where tradition Meets Bold Perspective</div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec imperdiet
-                                            eros, vitae suscipit odio. Fusce euismod enim non libero luctus, sed aliquam
-                                            nunc vestibulum. Nullam tincidunt sagittis eros ac placerat. </p>
+                                        <div class="text"> Enjoy the Journey</div>
+                                        <div class="heading">Where Tradition Meets Bold Perspective</div>
+                                        <p>
+                                            Each dish is crafted using the finest and most authentic components.
+                                        </p>
                                         <a class="button-two-line" href="#menuds">DISCOVER MENU</a>
                                     </div>
                                 </div>
@@ -827,8 +845,8 @@
         <!-- /wg-location -->
 
         <!-- gallery -->
-
-        <div class="gallery-wrap" style="display: none">
+        <!--
+        <div class="gallery-wrap" >
             <div class="themesflat-container full">
                 <div class="row">
                     <div class="col-xl-3 col-md-6">
@@ -874,6 +892,7 @@
                 </div>
             </div>
         </div>
+        -->
         <!-- /gallery -->
         <!-- footer -->
         <footer id="footer" class="footer">
