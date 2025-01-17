@@ -13,5 +13,5 @@
           'port' => 25
         );
     */
-    $to_email_address = 'gonzalo@nomada.com.sg';
+    $to_email_address = 'reservation@nomada.com.sg';
 ?>

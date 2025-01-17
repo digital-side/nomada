@@ -13,30 +13,66 @@
     border-bottom-right-radius: 0px;
     background-color: #0E1618;
 }
+
 .site-logo-wrap img {
     height: 115px;
     width: auto;
 }
+
 #site-logo {
     left: 45%;
 }
+
 .header-top > .left {
     gap: 40px;
 }
 
+.ds-reservation {
+    display: none;
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px){
+    .site-logo-wrap {
+        padding: 10px 10px 20px 10px;
+    }
+}
+@media only screen and (max-width: 600px) and (orientation: landscape)  {
+    .site-logo-wrap {
+        padding: 10px 10px 20px 10px;
+    }
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .swiper-container {
         /*height: 300px;*/
     }
+
+    .site-logo-wrap {
+        padding: 10px 30px 20px 30px;
+    }
+
+    /*padding: 10px 30px 20px 30px;*/
+    /*padding: 10px 10px 20px 10px;*/
     .site-logo-wrap img {
         height: 80px;
         width: auto;
     }
+
     #site-logo {
         left: 0%;
     }
+
+    .ds-reservation {
+        display: block;
+        left: 100%;
+        top: 30px;
+        position: absolute;
+        padding: 0 20px;
+        /*height: 40px;*/
+
+    }
 }
+
 
 li.acconcepts > a {
     color: var(--main-font-color);
