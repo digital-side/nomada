@@ -30,6 +30,17 @@
 .ds-reservation {
     display: none;
 }
+.ds-image-menu {
+    width: 500px !important;
+    /*width: auto;*/
+    height: 300px !important;
+}
+.border-over-column::before {
+    left: 37px;
+    right: 37px;
+    top: -17px;
+    bottom: -17px;
+}
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px){
     .site-logo-wrap {
@@ -72,7 +83,6 @@
 
     }
 }
-
 
 li.acconcepts > a {
     color: var(--main-font-color);
